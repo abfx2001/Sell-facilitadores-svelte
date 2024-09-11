@@ -9,7 +9,7 @@
 			<li><code class="code">/src/app.postcss</code> - app wide css</li>
 			<li>
 				<code class="code">/src/routes/+page.svelte</code> - this page, you can replace the contents
-				<button type="button" class="btn-icon bg-primary-500 mx-8">(icon)</button>
+				<button type="button" class="btn bg-primary-500 mx-8 px-4 text-tertiary-500">Send</button>
 			</li>
 		</ul>
 	</div>
